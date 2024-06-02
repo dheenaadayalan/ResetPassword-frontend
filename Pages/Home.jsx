@@ -23,7 +23,7 @@ function Home({userEmail}) {
     },[])
     return (
         <>
-           <h1>Loged-in</h1>
+           <h1>Your now Loged-in</h1>
            
         </>
     );
